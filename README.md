@@ -1,4 +1,4 @@
-# Module 12 Credit Risk Analysis
+# Module 20 - Credit Risk Analysis
 
 ## Overview of the Analysis
 
